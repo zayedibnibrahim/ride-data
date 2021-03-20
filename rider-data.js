@@ -2,21 +2,21 @@
     {
         "id": 1,
         "vehicle": "Bike",
-        "image": "../src/image/bike.png"
+        "image": "./images/bike.png"
     },
     {
         "id": 2,
         "vehicle": "Car",
-        "image": "../src/image/car.png"
+        "image": "./images/car.png"
     },
     {
         "id": 3,
         "vehicle": "Bus",
-        "image": "../src/image/bus.png"
+        "image": "../src/images/bus.png"
     },
     {
         "id": 4,
         "vehicle": "Train",
-        "image": "../src/image/train.png"
+        "image": "./images/train.png"
     }
 ]
