@@ -2,21 +2,21 @@
     {
         "id": 1,
         "vehicle": "Bike",
-        "image": "../src/image/bike.png"
+        "image": "https://i.ibb.co/7Gtn6tZ/train.png"
     },
     {
         "id": 2,
         "vehicle": "Car",
-        "image": "../src/image/car.png"
+        "image": "https://i.ibb.co/DRmkRym/car.png"
     },
     {
         "id": 3,
         "vehicle": "Bus",
-        "image": "../src/image/bus.png"
+        "image": "https://i.ibb.co/MRvkbWS/bus.png"
     },
     {
         "id": 4,
         "vehicle": "Train",
-        "image": "../src/image/train.png"
+        "image": "https://i.ibb.co/7Gtn6tZ/train.png"
     }
 ]
