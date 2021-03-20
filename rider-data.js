@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "veheivle": "Bike",
+        "vehicle": "Bike",
         "image": "../src/image/bike.png"
     },
     {
         "id": 2,
-        "veheivle": "Car",
+        "vehicle": "Car",
         "image": "../src/image/car.png"
     },
     {
         "id": 3,
-        "veheivle": "Bus",
+        "vehicle": "Bus",
         "image": "../src/image/bus.png"
     },
     {
         "id": 4,
-        "veheivle": "Train",
+        "vehicle": "Train",
         "image": "../src/image/train.png"
     }
 ]
